@@ -1,5 +1,4 @@
 # Home
-----------------------------------------------------------------------------------------------------
 
 #CASP.ER contains a wide range of components listed below:
 * Arduino Sketches:       https://github.com/SEMT2Group1/Arduino_Sketches
@@ -10,8 +9,6 @@
 * Windows Phone Client:   https://github.com/SEMT2Group1/CASPER_WP_Client
 * Socket Server:          https://github.com/SEMT2Group1/Socket_Server
 * Node Server:            https://github.com/SEMT2Group1/Node.js_SmartCar_API_Server
-
-----------------------------------------------------------------------------------------------------
 
 #Protocolls:
 * Drive Protocol
