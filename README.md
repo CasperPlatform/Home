@@ -2,12 +2,12 @@
 
 ##Developers
 
-* Daniel Arnqvist https://se.linkedin.com/in/daniel-arnqvist
-* Pontus Pohl https://se.linkedin.com/in/pontus-pohl-652942103
-* Linus Eiderstöm Swahn https://se.linkedin.com/in/linuseiderstromswahn
-* Axel Spångberg https://se.linkedin.com/in/axel-spångberg-430038117
-* Andreas Fransson https://se.linkedin.com/in/andreasjonasfransson
-* Marco Kovisto https://se.linkedin.com/in/marcokoivisto
+* Daniel Arnqvist [Linked in] (https://se.linkedin.com/in/daniel-arnqvist)
+* Pontus Pohl [Linked in] (https://se.linkedin.com/in/pontus-pohl-652942103)
+* Linus Eiderstöm Swahn [Linked in] (https://se.linkedin.com/in/linuseiderstromswahn)
+* Axel Spångberg [Linked in] (https://se.linkedin.com/in/axelspangberg)
+* Andreas Fransson [Linked in] (https://se.linkedin.com/in/andreasjonasfransson)
+* Marco Kovisto [Linked in] (https://se.linkedin.com/in/marcokoivisto)
 
 
 ##CASP.ER contains a wide range of components listed below:
