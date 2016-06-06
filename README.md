@@ -25,7 +25,7 @@
 * [Node Server]            (https://github.com/CasperPlatform/Node.js_SmartCar_API_Server)
 
 ##Protocolls:
-* [Drive Protocol](https://github.com/SEMT2Group1/Home/wiki/Drive-Protocol)
-* [Video Protocol](https://github.com/SEMT2Group1/Home/wiki/Video-Protocol)
-* [Lidar Protocol's] (https://github.com/SEMT2Group1/Home/wiki/Lidar-Protocol)
+* [Drive Protocol](https://github.com/CasperPlatform/Home/wiki/Drive-Protocol)
+* [Video Protocol](https://github.com/CasperPlatform/Home/wiki/Video-Protocol)
+* [Lidar Protocol's](https://github.com/CasperPlatform/Home/wiki/Lidar-Protocol)
 
